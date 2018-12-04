@@ -14,13 +14,6 @@ class ViewController: UIViewController {
         "банан",
         "гном",
         "дом",
-        "ель",
-        "ёж",
-        "железная Дорога",
-        "часы",
-        "курица",
-        "человек",
-        "ложка"
            ]
     @IBOutlet weak var treeImageView: UIImageView!
     @IBOutlet var letterButtons: [UIButton]!
